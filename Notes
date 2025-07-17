@@ -1,0 +1,4 @@
+package.json - -contains all dependencies for the projevt to work
+scripts bundles and runs
+babel - coverts to js 
+and webpack bundles a project and runs it on local host
